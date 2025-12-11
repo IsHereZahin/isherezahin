@@ -20,5 +20,5 @@ I’m currently expanding my backend expertise with <strong>Node.js</strong> and
 </p>
 
 <p align="center">
-  Explore more about my work and projects on my <a href="https://isherezahin.vercel.app/">Portfolio</a>.
+  Explore more about my work and projects on my <a href="https://isherezahin.vercel.app?ref=github-readme.md">Portfolio</a>.
 </p>
